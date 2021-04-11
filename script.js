@@ -74,11 +74,11 @@ function generatePassword() {
     }
 
     console.log(result)
-    for (var i = 0; i < guaranteedChar.length; i++) {
-    console.log(result[i] , guaranteedChar[i])
-    result[i] = guaranteedChar[i];
+    // for (var i = 0; i < guaranteedChar.length; i++) {
+    // console.log(result[i] , guaranteedChar[i])
+    // result[i] = guaranteedChar[i];
 
-    }
+    // }
   return result.join('');
 };
 // Get references to the #generate element
