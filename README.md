@@ -9,7 +9,7 @@ A simple yet effective password generator, that alows you to choose the complexi
 * JS
 
 ## Website
-https://github.com/Zimerzel/Password-Wizard
+https://zimerzel.github.io/Password-Wizard/
 
 ## Contribution
 Made by [Zach Imerzel]
